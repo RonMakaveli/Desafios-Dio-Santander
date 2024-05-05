@@ -43,3 +43,5 @@ Após inserir todas as informações necessárias, o sistema exibe uma mensagem 
 - O sistema utiliza a classe Scanner para capturar as entradas do usuário via terminal.
 - Foi implementado um loop em cada método de entrada para garantir que a entrada do usuário seja validada corretamente.
 - As informações inseridas são utilizadas para criar uma mensagem de agradecimento ao cliente, exibindo os detalhes da conta criada.
+
+Algumas partes do projeto implementei por conta própria saindo do escopo proposto pelo projeto.
