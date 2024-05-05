@@ -1,6 +1,8 @@
-# Documentação Sucinta: Sistema de Conta Bancária
+# Documentação: Sistema Conta Bancária
 
-Este sistema em Java permite que um usuário insira informações para criar uma conta bancária fictícia. Ele solicita o número da agência, número da conta, nome do cliente e saldo da conta. Os campos para número da agência, número da conta e saldo da conta aceitam apenas números, enquanto o campo para o nome do cliente aceita apenas letras. 
+Este sistema em Java permite que um usuário insira informações para criar uma conta bancária fictícia.<br>
+Ele solicita o número da agência, número da conta, nome do cliente e saldo da conta.<br>
+Os campos para número da agência, número da conta e saldo da conta aceitam apenas números, enquanto o campo para o nome do cliente aceita apenas letras. 
 
 ## Uso do Sistema:
 
