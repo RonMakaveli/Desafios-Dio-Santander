@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90847bbc-861b-4d10-b432-d0b1c5253b5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Contador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="90847bbc-861b-4d10-b432-d0b1c5253b5a" name="Changes" comment="fix: correção de bugs gerados por conflitos com o VS code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +48,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714965998663</updated>
     </task>
+    <task id="LOCAL-00001" summary="fix: correção de bugs gerados por conflitos com o VS code">
+      <option name="closed" value="true" />
+      <created>1714966184230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714966184230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix: correção de bugs gerados por conflitos com o VS code" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: correção de bugs gerados por conflitos com o VS code" />
   </component>
 </project>
