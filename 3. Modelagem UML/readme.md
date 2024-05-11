@@ -28,6 +28,10 @@ Este é um sistema simples que simula as funcionalidades de um iPhone, como um r
 2. Compile os arquivos `.java` usando o comando `javac`:
 3. Execute o programa compilado usando o comando `java`:
 
+## Abaixo uma visão geral do diagrama de classes do projeto
+
+![Diagrama](UML/Diagrama%20UML/iPhone%20UML.png)
+
 # Justificativa para o uso de Interfaces em vez de Classes Abstratas
 
 No sistema fornecido, optei por não utilizar classes abstratas e, em vez disso, utilizei interfaces (ReprodutorMusical, AparelhoTelefonico, NavegadorInternet) para definir os contratos ou comportamentos que devem ser implementados pela classe iPhone. Abaixo estão algumas razões que embasam essa escolha:
