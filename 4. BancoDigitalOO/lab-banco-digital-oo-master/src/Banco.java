@@ -1,24 +1,19 @@
 import java.util.List;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.NonNull;
 
+@Data
+@NoArgsConstructor
 public class Banco {
-
+	@NonNull
 	private String nome;
-	private List<Conta> contas;
+	private List<Cliente> clientes;
 
-	public String getNome() {
-		return nome;
+	public void listarClientes() {
+		System.out.println("Clientes do Banco " + nome + ":");
+		for (Cliente cliente : clientes) {
+			System.out.println(cliente.getNome());
+		}
 	}
-
-	public void setNome(String nome) {
-		this.nome = nome;
-	}
-
-	public List<Conta> getContas() {
-		return contas;
-	}
-
-	public void setContas(List<Conta> contas) {
-		this.contas = contas;
-	}
-
 }
